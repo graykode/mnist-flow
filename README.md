@@ -6,7 +6,7 @@ This Project is only repository for solving [AI Engineer Party](https://www.face
 
 ## Architecture
 
-![](/Users/graykode/Desktop/architecture.png)
+![](architecture.png)
 
 
 
