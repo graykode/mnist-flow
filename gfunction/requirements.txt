@@ -1,5 +1,5 @@
 tensorflow==1.14.0
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 numpy==1.16.4
 google-cloud-bigquery==1.18.0
 google-cloud-core==1.0.3
